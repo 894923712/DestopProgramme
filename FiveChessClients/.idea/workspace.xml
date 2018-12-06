@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8510cc0a-ed2c-4276-8032-9ca850a02f06" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FiveChessClients.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FiveChessServices/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FiveChessServices/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FiveChessServices/target/classes/Common/LogUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FiveChessServices/target/classes/Const/Const.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FiveChessServices/target/classes/Servlet/SuperServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FiveChessServices/target/classes/bean/Chess.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FiveChessServices/target/classes/bean/UserData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FiveChessServices/target/classes/format/MessageFormat$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FiveChessServices/target/classes/format/MessageFormat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FiveChessServices/target/classes/format/MessageFormatHelper$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FiveChessServices/target/classes/format/MessageFormatHelper.class" beforeDir="false" />
-    </list>
+    <list default="true" id="8510cc0a-ed2c-4276-8032-9ca850a02f06" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -96,7 +82,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/bean/Const.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="747">
+            <state relative-caret-position="1275">
               <caret line="51" column="5" lean-forward="true" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -133,7 +119,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-9" />
     <option name="width" value="1932" />
     <option name="height" value="1058" />
@@ -159,27 +145,6 @@
               <item name="FiveChessClients" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="FiveChessClients" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FiveChessClients" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FiveChessClients" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FiveChessClients" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FiveChessClients" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FiveChessClients" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="bean" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -191,7 +156,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544077596823" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544077893986" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -218,16 +183,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1544076893975</updated>
-      <workItem from="1544076899153" duration="621000" />
+      <workItem from="1544076899153" duration="994000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="621000" />
+    <option name="totallyTimeSpent" value="994000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -301,7 +265,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/bean/Const.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="747">
+        <state relative-caret-position="1275">
           <caret line="51" column="5" lean-forward="true" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
