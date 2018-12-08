@@ -1,5 +1,7 @@
 package bean;
 
+import java.awt.*;
+
 /**
  * @author LuoMing luom@3vjia.com
  * 棋盘客户端类
@@ -13,7 +15,22 @@ public class Chess implements Comparable<Chess>{
 
     public Chess() {
     }
+    public Chess(int x, int y, boolean isBlack) {
+        this.x = x;
+        this.y = y;
+        this.color = isBlack ? 1 : -1;
+    }
 
+    public Chess(int x, int y, double score) {
+        this.x = x;
+        this.y = y;
+        this.score = score;
+    }
+
+    public Chess(int x, int y) {
+        this.x = x;
+        this.y = y;
+    }
     public int getX() {
         return x;
     }
@@ -44,6 +61,10 @@ public class Chess implements Comparable<Chess>{
 
     public void setScore(double score) {
         this.score = score;
+    }
+
+    public Color getColors() {
+        return color == 1 ? Color.BLACK : Color.WHITE;
     }
 
     public int compareTo(Chess o) {
